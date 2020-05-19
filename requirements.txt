@@ -1,0 +1,6 @@
+datetime
+pandas
+kiteconnect
+confluent-kafka
+numpy
+pyspark
